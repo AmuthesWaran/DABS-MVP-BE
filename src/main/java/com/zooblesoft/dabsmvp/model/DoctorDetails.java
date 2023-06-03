@@ -15,7 +15,7 @@ import lombok.NoArgsConstructor;
 public class DoctorDetails {
 
     @Id
-    private String doctorID;
+    private String doctorId;
     private String doctorName;
     private String specialization;
     private  String available_slots;

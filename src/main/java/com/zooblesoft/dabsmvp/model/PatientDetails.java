@@ -1,12 +1,13 @@
 package com.zooblesoft.dabsmvp.model;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.springframework.format.annotation.DateTimeFormat;
+import java.util.Date;
 
 @AllArgsConstructor
 @NoArgsConstructor
@@ -20,7 +21,8 @@ public class PatientDetails {
     private String fullName;
     private String city;
     private String gender;
-    private DateTimeFormat dateOfBirth;
+    @JsonFormat(pattern = "dd-MM-yyyy")
+    private Date dateOfBirth;
     private String email;
 
 }

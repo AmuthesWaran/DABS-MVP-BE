@@ -19,6 +19,8 @@ public class BookingDetails {
     private Long  patientPhoneNo;
     private String bookingSlot;
     private String doctorId;
+    private String status;
+    private String mode;
     private String notes;
 
 
