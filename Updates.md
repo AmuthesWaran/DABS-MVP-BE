@@ -3,7 +3,8 @@
 * MVP Backend completed to recived response via IVR.
 * Twilio flow configured and checked. Working as expected except sending a POST Request from Twilio - Issue due to locally configured.
 * Static IP or host api publically to resolve the above issue.
-* H2-Database to be updated - branch created
+* H2 Database to be updated - branch created
+* H2 Datanase configuration done under the branch h2-db
 
 
 # Points to be added on full product
