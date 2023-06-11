@@ -1,0 +1,10 @@
+com\zooblesoft\dabsmvp\model\PatientDetails.class
+com\zooblesoft\dabsmvp\serviceImpl\BookingServiceImpl.class
+com\zooblesoft\dabsmvp\repository\DoctorRepository.class
+com\zooblesoft\dabsmvp\controller\BookingController.class
+com\zooblesoft\dabsmvp\DabsmvpApplication.class
+com\zooblesoft\dabsmvp\model\BookingDetails.class
+com\zooblesoft\dabsmvp\repository\BookingDetailsRepository.class
+com\zooblesoft\dabsmvp\repository\PatientDetailsRepository.class
+com\zooblesoft\dabsmvp\model\DoctorDetails.class
+com\zooblesoft\dabsmvp\service\BookingService.class
