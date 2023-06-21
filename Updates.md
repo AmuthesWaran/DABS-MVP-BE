@@ -7,6 +7,7 @@
 * H2 Datanase configuration done under the branch h2-db
 * h2-db branch hosted on Render (https://javawhizz.com/2023/03/host-a-spring-boot-application-for-free-on-render#:~:text=Host%20a%20Spring%20Boot%20application%20for%20free%20on,...%208%20Create%20a%20Dockerfile%20...%20More%20items)
 * web service suspended.
+* UI Hosting options: https://blog.logrocket.com/8-ways-deploy-react-app-free/
 
 
 # Points to be added on full product
