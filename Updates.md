@@ -10,7 +10,15 @@
 * web service suspended.
 * UI Hosting options: https://blog.logrocket.com/8-ways-deploy-react-app-free/
 
-
+* Twilo Alternatives to be checked
+    * Currently issues getting indian no. in Twilo
+    * Sign up issues with Plivo, Since company details to be provide for compliance purposes. Support info found [here](https://support.plivo.com/hc/en-us/articles/4406444053529)
+    * Alternative platform to be explored - alternative [blog](https://www.g2.com/products/plivo/competitors/alternatives)
+        * Other Services to test out:
+          * https://www.bandwidth.com/ ** Includes Coding
+          * https://telnyx.com/products/voice-api **Includes Coding
+          * https://www.infobip.com/voice
+            
 # Points to be added on full product
 * Logs to maintain the application status.
 * How to build PWA using React
